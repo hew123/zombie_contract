@@ -1,0 +1,19 @@
+remix -- online IDE, can deploy contracts
+metamask -- like a wallet
+toshi/coinbase -- mobile wallet
+infura -- remote nodes, metamask uses it to connect to ethereum nodes
+truffle -- environment and testing framework, once inititated, create .sol and files
+geth -- u need this to connect to the some/all ethereum REAL nodes to mine and stuff OR can use this to connect to testnet like rinkeby using terminal -- can interact with the contract/contract's method thru terminal
+rinkeby -- commonly used testnet
+geth & truffle -- can be used to set up local private test net using some genesis.json node then must mine urself
+Mist -- another ethereum wallet app that can deploy contracts too
+ganache -- blockchain node emulator, with a GUI for viewing fake blockchain accounts; with truffle, make truffle network config point to ganache to view what's happening
+embark -- ethereum framework integrating IFPS and infura
+IFPS -- decentralized cloud storage
+etherscan website -- check if the contract has been deployed on ethereum blockchain 
+rinkeby.etherscan.io -- check if the contract has been deployed on rinkeby testnet
+webpack -- pack all css, html, js into one javascript file 
+web3 -- provides interface to talk to blockchain
+babel -- javasrcipt compiler
+status -- mobile crypto wallet + web3 dapp browser
+Create-react-app eth-ipfs -- another framework
